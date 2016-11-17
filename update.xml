@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8" ?>
 <Update>
 <PokeDex>1.0 (Build 32)</PokeDex>
@@ -6,13 +5,4 @@
 <MH4Dex>1.0 (Build 4)</MH4Dex>
 <MH4GDex>1.0 (Build 7)</MH4GDex>
 <MHXDex>1.0 (Build 6)</MHXDex>
-=======
-<?xml version="1.0" encoding="utf-8" ?>
-<Update>
-<PokeDex>1.0 (Build 32)</PokeDex>
-<MH3GDex>1.0 (Build 9)</MH3GDex>
-<MH4Dex>1.0 (Build 4)</MH4Dex>
-<MH4GDex>1.0 (Build 7)</MH4GDex>
-<MHXDex>1.0 (Build 6)</MHXDex>
->>>>>>> origin/master
 </Update>
